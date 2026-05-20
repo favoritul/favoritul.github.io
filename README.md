@@ -1,6 +1,6 @@
 # favoritul.github.io
 
-Landing personal — Full Stack Engineer. Single-file HTML, sin dependencias de build.
+Landing personal — Desarrollador Full Stack. Single-file HTML, sin dependencias de build.
 
 ## Desplegar en GitHub Pages (5 minutos)
 
